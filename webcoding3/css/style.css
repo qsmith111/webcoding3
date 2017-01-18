@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	height: 1000px;
+}
+#red{
+	height: 300px;
+	width: 50%;
+	background-color: black;
+}
+#blue{
+	height: 300px;
+	width: 100%;
+	background-color: blue;
+}

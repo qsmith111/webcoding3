@@ -1,0 +1,46 @@
+ body{
+ 	margin: 0;
+ 	height: 956px;
+ }
+
+ header{
+ 	height: 20%;
+ 	width: 105%;
+ 	background-color: grey;                                                                                                                                                                                                                                               ;
+
+
+
+ }  
+
+ #content{
+ 	height: 75%;
+ 	width: 100%;
+ 	background-color: red;
+ 	position:relative;
+ 	padding: 2%;
+ }
+
+#box_1{
+	height: 50%;
+	width: 100%;
+	background-color:rosybrown ;
+	margin: auto;
+
+}
+
+#box_2{
+	height: 50%;
+	width: 100%; 
+	background-color: whitesmoke;
+	margin: auto;
+
+}
+
+footer{
+	position: relative;
+	height: 15%;
+	width: 100%;
+	background-color: goldenrod;
+	padding-bottom: 2%;
+
+}
